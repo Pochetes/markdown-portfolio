@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Working out 🏋️
+* Coding 💻
+* Solving Problems 📝
+* Thinking of new ideas 💡
+* Reading books 📚 
